@@ -8,27 +8,23 @@
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+Problem Statement 7 – Transform the Future of Rural Commerce
 
 ---
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+The objective of the Gaav Bazaar project is to empower rural farmers and artisans by providing them a digital platform where they can sell their products directly to customers, access real-time mandi prices, check weather forecasts, rent farming tools, explore government schemes, get expert advice, learn through online courses, and find transport assistance — all in one place. This platform bridges the gap between rural communities and modern technology to ensure better income opportunities and informed decision-making.
 
 ---
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`Ryzen`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
+- Name 1 Rahul Meravi (GitHub / LinkedIn / Role)  
 - Name 2  
 - Name 3  
 *(Add links if you want)*
